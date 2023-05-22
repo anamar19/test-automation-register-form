@@ -1,1 +1,0 @@
-# test-automation-register-form
